@@ -1,7 +1,6 @@
 <html>
 <head>
     <title>Sandhu Web Site </title>
-    <!-- <link rel="stylesheet" href="fullwebsite.css"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"/>
     <link rel="icon" type="image/x-icon" href="https://i.pinimg.com/736x/54/b9/2a/54b92acb33bfd81d2cb22fb213668b25.jpg">
     <style>
