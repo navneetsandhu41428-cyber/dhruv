@@ -106,7 +106,6 @@
     box-shadow: 4px 4px 0px rgb(255, 93, 12);
     transition: 0.5s;
 }
-
 h1{
     font-size: 40px;
     position: absolute;
@@ -889,42 +888,36 @@ top: -480;
    margin-left: 150px;
    font-size: 25;
    margin-top: -25px;
-
 }
 .h2ofd61
 {
    margin-left: 150px;
    font-size: 25;
    margin-top: -25px;
-
 }
 .h3ofd6
 {
    margin-left: 150px;
    font-size: 25;
    margin-top: -25px;
-
 }
 .h4ofd6
 {
    margin-left: 150px;
    font-size: 25;
    margin-top: -25px;
-
 }
 .h5ofd6
 {
    margin-left: 150px;
    font-size: 25;
    margin-top: -25px;
-
 }
 .h6ofd6
 {
    margin-left: 150px;
    font-size: 25;
    margin-top: -25px;
-
 }
 .p1ofd6
 {
@@ -1344,7 +1337,6 @@ top: -480;
     top: -55;
     font-size: 18;
     width: 250;
-
 }
 .i3
 {
@@ -1613,11 +1605,8 @@ hr
                     <h2 class="h2ofd5">258+</h2>
                   <p class="p3ofd5">Projet Completed</p>
                 <h2 class="h3ofd5">190</h2>
-                  <p class="p4ofd5">Happy Clients</p>
-                 
+                  <p class="p4ofd5">Happy Clients</p>   
         </div>
-
-
     <div class="d6">
         <h2 class="h2ofd6">
             MY SERVICES
@@ -1667,9 +1656,6 @@ hr
                  <br>magna aliqua</p>
         </div>
     </div>
-
-
-
     <div class="d7">
         <h2 class="h1ofd7">MY SKILLS</h2>
         <div class="d1ofd7">
@@ -1704,8 +1690,6 @@ hr
             <button class="btn6">CONTACT NOW</button>
         </div>
     </div>
-
-
     <div class="d9">
         <h2 class="h1ofd9">LATEST PROJECTS</h2>
         <img src="project-1.jpg.jpeg" alt="" class="img1ofd9">
@@ -1717,7 +1701,6 @@ hr
         </div>
         <div class="d2ofd9">
             <button class="btn7">VIEW PROJECT</button>
-
         </div>
         <div class="d3ofd9">
             <button class="btn7">VIEW PROJECT</button>
@@ -1725,7 +1708,6 @@ hr
         <div class="d4ofd9">
             <button class="btn7">VIEW PROJECT</button>
         </div>
-
         <div class="d5ofd9">
             <p class="p2ofd1ofd9">WEB DESIGN</p>
         </div>
@@ -1738,12 +1720,10 @@ hr
         <div class="d8ofd9">
             <p class="p2ofd1ofd9">WEB DESIGN</p>
         </div>
-
         <h2 class="h2ofd9">Website Design for Marketing  <br>Agency Startup</h2>
         <h2 class="h3ofd9">Website Design for Marketing  <br>Agency Startup</h2>
         <h2 class="h4ofd9">Website Design for Marketing  <br>Agency Startup</h2>
         <h2 class="h5ofd9">Website Design for Marketing  <br>Agency Startup</h2>
-
         <p class="p1ofd9"> design and develop services for customers of all sizes, specializing in
             <br>creating stylish, modern websites, web services and online stores</p>
         <p class="p2ofd9">design and develop services for customers of all sizes, specializing in
@@ -1752,12 +1732,7 @@ hr
             <br>creating stylish, modern websites, web services and online stores</p>
         <p class="p4ofd9">design and develop services for customers of all sizes, specializing in
             <br>creating stylish, modern websites, web services and online stores</p>
-
-    
     </div>
-
-
-
     <div class="d10">
         <h2 class="h1ofd10">TESTIMONIAL</h2>
         <div class="d1ofd10">
@@ -1766,7 +1741,6 @@ hr
             <p class="p2ofd10"><b>jennifer lutheran</b></p>
             <p class="p3ofd10">CEO at pxdraft</p>
         </div>
-
         <div class="d2ofd10">
             <div class="d2ofd1ofd10"></div>
                         <p class="p1ofd10">Lorem ipsum, dolor sit amet consectetur adipisicing elit. <br> velit. Exercitationem saepe iure velit odit est fugit, ut <br>dolor itaque corporis aspernatur illum reiciendis </p>
@@ -1777,11 +1751,9 @@ hr
         <div class="lilcircle2"></div>
     </div>
     <div class="d11">
-
         <div class="d1ofd11">
         <h2 class="h1ofd11">Get in touch</h2>
         <p class="p1ofd11">Our friendly team would love to hear from you</p>
-
         <form>
             <label class="l1">First name</label><br>
             <input type="text" class="i1" placeholder="Name *">
@@ -1801,12 +1773,10 @@ hr
         <i class="fa-brands fa-instagram" id="footericon3"></i>
         <i class="fa-brands fa-linkedin-in" id="footericon4"></i>
         <i class="fa-brands fa-pinterest" id="footericon5"></i>
-
         <hr>
         <p class="p3ofd11">© 2022 copyright all right reserved</p>
         <div class="d3ofd11"></div>
         <div class="d4ofd11"></div>\
-
         <h2 class="h2ofd11">+01 123 654 8096</h2>
         <p class="p5ofd11">PHONE</p>
         <h2 class="h3ofd11">info@domainname.com</h2>
@@ -1814,8 +1784,6 @@ hr
         <h2 class="h4ofd11">Warnwe Park Streetperrine,<br>
         FL 33157 New York City</h2>
         <p class="p6ofd11">MAIL</p>
-
-
         <div class="d5ofd11">
             <i class="fa-solid fa-envelope" id="icon"></i>
         </div>
